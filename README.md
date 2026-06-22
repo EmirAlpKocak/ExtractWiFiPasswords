@@ -20,7 +20,7 @@ As explained in the code, this will only work on English systems. To make it wor
 
 In some versions of Windows, this program may require an elevated CMD window to work. In my case, it didn't reqire on Windows 11 but it did require on Windows 7.
 
-If you don't get any output from the program, it can mean that it can't find any profiles or netsh failed at background
+If you don't get any output from the program, it can mean that it can't find any profiles or netsh failed at background.
 
 If you get "Not found" as password, it means that you may need to run the program as administrator or the WiFi has no password.
 
