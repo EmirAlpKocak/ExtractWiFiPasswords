@@ -1,5 +1,5 @@
 # ExtractWiFiPasswords
-C# code for extracting all saved WiFi passwords on a Windows system.
+C# program for extracting all saved WiFi passwords on a Windows system.
 
 ExtractWiFiPasswords is a simple C# program that extracts all saved WiFi passwords on a Windows system.
 It uses built in netsh.exe on Windows to do that.
