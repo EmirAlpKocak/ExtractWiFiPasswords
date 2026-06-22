@@ -6,7 +6,7 @@ It uses built in netsh.exe on Windows to do that.
 
 With this program, you can quickly get your WiFi password if you do not remember it.
 
-!!! This tool is made for educational purposes only. Use this only in your systems or systems that you have the rights for running this kind of software.
+⚠️ This tool is made for educational purposes only. Use this only in your systems or systems that you have the rights for running this kind of software.
 
 The logic is simple, it runs netsh wlan show profiles at the background and extracts all WiFi profiles using RegEx. Then it also searchs for saved passwords using netsh wlan show profile name="profilename" key=clear and displays them out to the CMD window.
 
