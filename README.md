@@ -25,3 +25,5 @@ If you don't get any output from the program, it can mean that it can't find any
 If you get "Not found" as password, it means that you may need to run the program as administrator or the WiFi has no password.
 
 Requires .NET Framework 4.0.
+
+⚠️ If you get a warning from your antivirus, it is false positive.
